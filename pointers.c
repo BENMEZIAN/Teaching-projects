@@ -11,7 +11,6 @@ int main() {
     scanf("%d",&a);
     
     printf("Acces par valeur, a = %d\n",a);
-    printf("");    
     
     printf("Acces par adresse (pointeur), a = %d",(*ptr));
     
