@@ -1,30 +1,42 @@
 # 🎓 Teaching Projects
 
-This repository contains multiple C programming examples and exercises shared with my students during workshop sessions.
+> C Programming Examples & Exercises for University Workshops
+
+![Language](https://img.shields.io/badge/language-C-blue.svg)
+![Status](https://img.shields.io/badge/status-active-success)
+![Last Updated](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO_NAME)
+
+---
 
 ## 📘 Audience
 
 ### 🔹 Second Year Students (L2 ISIL)
-Projects designed to reinforce concepts for intermediate-level learners, including:
-- Dynamic allocation
-- Linked list
-- Stack
-- Queue
-- Binary tree
+Projects to strengthen understanding of intermediate-level programming topics:
+
+- ✅ Dynamic Memory Allocation  
+- ✅ Linked Lists  
+- ✅ Stack  
+- ✅ Queue  
+- ✅ Binary Trees  
 
 ### 🔹 First Year Students (L1 MI)
-Beginner-friendly examples covering:
-- Functions
-- Records
-- File handling
+Beginner-friendly examples and foundational C programming concepts:
 
-### 🔹 Course supports
-The courses are provided in PDF files.
+- ✅ Functions  
+- ✅ Records (Structures)  
+- ✅ File Handling  
 
-### 🔹 Exercices
-- Split stack
-- Library management system
+### 🔹 Course Support
+- 📄 Lecture notes and course slides are provided in [PDF format] 
+
+### 🔹 Exercises
+Hands-on mini-projects and assignments:
+
+- 📌 [Split Stack]
+- 📌 [Library Management System]
+
+---
 
 ## 💡 Purpose
 
-These programs are intended to support hands-on learning and help students apply theoretical knowledge through practical coding.
+These projects are designed to support students in applying theoretical programming concepts through practical coding examples. Each file aims to demonstrate real-world use of C language fundamentals.
