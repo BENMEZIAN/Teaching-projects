@@ -18,6 +18,9 @@ Beginner-friendly examples covering:
 - Records
 - File handling
 
+### 🔹 Course supports
+The courses are provided in PDF files.
+
 ### 🔹 Exercices
 - Split stack
 - Library management system
