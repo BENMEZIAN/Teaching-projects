@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/language-C-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success)
-![Last Updated](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO_NAME)
+![Last Updated](https://img.shields.io/github/last-commit/BENMEZIAN/Teaching-projects)
 
 ---
 
