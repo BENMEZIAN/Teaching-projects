@@ -1,0 +1,5 @@
+Bonjour tout le monde !
+Ceci est un fichier exemple.
+Nous lisons chaque caractère un par un avec fgetc.
+Nous lisons une line avec fgets.
+Bonne journée !
