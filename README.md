@@ -24,7 +24,8 @@ Beginner-friendly examples and foundational C programming concepts:
 
 - ✅ Functions  
 - ✅ Records (Structures)  
-- ✅ File Handling  
+- ✅ File Handling
+- ✅ Pointers
 
 ### 🔹 Course Support
 - 📄 Lecture notes and course slides are provided in [PDF format] 
