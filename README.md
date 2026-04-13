@@ -17,7 +17,9 @@ Projects to strengthen understanding of intermediate-level programming topics:
 - ✅ Linked Lists  
 - ✅ Stack  
 - ✅ Queue  
-- ✅ Binary Trees  
+- ✅ Binary Trees
+- ✅ Recursion
+- ✅ Complexity
 
 ### 🔹 First Year Students (L1 MI)
 Beginner-friendly examples and foundational C programming concepts:
